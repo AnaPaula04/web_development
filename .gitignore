@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Projects not ready yet
+Project5_JobApplication/
+Project6_PersonalHomepage/
