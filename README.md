@@ -2,7 +2,7 @@
 
 A collection of web development projects demonstrating HTML, CSS, JavaScript, and modern web technologies.
 
-## 📁 Projects
+## Projects
 
 ### [ResumeWebsite](./ResumeWebsite)
 Professional resume website with custom blue color scheme (#095B90 and #C1E4FB)
@@ -16,8 +16,8 @@ Interactive CSS-only click game - find hidden penguins in snow mounds
 ### [MondrianArtRecreation](./MondrianArtRecreation)
 CSS Grid recreation of Piet Mondrian's famous geometric artwork
 
-## 👤 Author
+##  Author
 **Ana McCullagh**  
-Software Engineer | Computer Science Graduate
+Software Engineer | Computer Science 2025 Graduate
 
 [GitHub](https://github.com/AnaPaula04) | [LinkedIn](https://www.linkedin.com/in/ana-mccullagh)
